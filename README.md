@@ -2,14 +2,13 @@
 #### I'm 23 years old and I currently live in Brazil
 
 
--📚 I am a beginner in development, I have studied Full Stack Dev, in the future I intend to focus on Back-End. 📚
-=📚 Currently studying HTML5, CSS3, JS, C#, MySQL. 📚
-=🖥️ I have been working in the IT field since I was 20 years old, currently working as a monitoring and development intern at [Atlas Governance](https://www.linkedin.com/company/atlas-governance), which I am having many opportunities to 
+📚 I am a beginner in development, I have studied Full Stack Dev, in the future I intend to focus on Back-End. 📚</br>
+📚 Currently studying HTML5, CSS3, JS, C#, MySQL. 📚</br>
+🖥️ I have been working in the IT field since I was 20 years old, currently working as a monitoring and development intern at [Atlas Governance](https://www.linkedin.com/company/atlas-governance), which I am having many opportunities to learn more </br>
 
 Skills: HTML5, CSS3.
 
 - 🔭 I’m currently working on study more about development 
-- 🤔 t 
 - 😄 Pronouns: him/his 
 
 
