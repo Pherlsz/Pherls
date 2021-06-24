@@ -15,6 +15,6 @@ Skills: HTML5, CSS3.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pherls)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pherls//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/pdrkz_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/9809002/pherls)  
 
 
-![Pherls's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pherls&count_private=true&theme=solarized-light)
+[![Pherls's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pherls&count_private=true&theme=solarized-light)](https://github.com/Pherls/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pherls&langs_count=5&theme=solarized-light)](https://github.com/Pherls/github-readme-stats)
 
