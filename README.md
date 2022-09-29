@@ -4,7 +4,6 @@
 
 - 📚 I am a beginner in development, in the future I intend to focus on DevOps Engineering. 📚
 - 📚 Currently studying C#, MySQL, Azure, IaC, Docker, CI/CD/CT, K8s. 📚
-- 🖥️ I have been working in the IT field since I was 20 years old, currently working as a development intern at [Atlas Governance](https://www.linkedin.com/company/atlas-governance), which I am having many opportunities to learn more </br>
 
 - 🔭 I’m currently working on study more about DevOps
 - 👯 I’m looking to collaborate with other Developers
